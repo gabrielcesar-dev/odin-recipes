@@ -17,5 +17,6 @@ This project contains a list of recipes. Each recipe includes detailed steps, in
 3. Open `index.html` in your web browser.
 
 ## Acknowledgements
+- Project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
 - Recipes inspired by [AllRecipes](https://www.allrecipes.com/)
 - Images from [AllRecipes](https://www.allrecipes.com/)
